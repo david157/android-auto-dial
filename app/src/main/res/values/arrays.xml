@@ -1,0 +1,21 @@
+<resources>
+    <string-array name="csp_entries">
+        <item>41 - Tim</item>
+        <item>15 - Vivo</item>
+        <item>21 - Claro</item>
+        <item>31 - Oi</item>
+        <item>99 - Nextel</item>
+        <item>12 - CTBC</item>
+        <item>43 - Sercomtel</item>
+    </string-array>
+
+    <string-array name="csp_entries_values">
+        <item>41</item>
+        <item>15</item>
+        <item>21</item>
+        <item>31</item>
+        <item>99</item>
+        <item>12</item>
+        <item>43</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Discagem DDD</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Procurar</string>
+    <string name="menu_settings">Configurações</string>
+
+    <string name="title_activity_settings">Configurações</string>
+
+    <string name="changed_number_message">Número alterado para: </string>
+
+    <!-- Preference Titles -->
+    <string name="general_header">Geral</string>
+    <string name="call_format_enabled_header">Habilitar operadora em chamadas</string>
+    <string name="csp_header">Código Operadora</string>
+</resources>
